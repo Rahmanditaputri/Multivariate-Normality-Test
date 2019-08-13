@@ -1,2 +1,3 @@
-### Multivariate-Normality-Test
-with R program
+### with R program
+Program ini sesuai dalam
+Johnson, R. A. and Wichern, D. W., 2007, Applied Multivariate Statistical Analysis Sixth Edition, Pearson Education, Inc., New Jersey.
